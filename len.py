@@ -1,0 +1,2 @@
+name="prasanth"
+len(name)
